@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:(https://amazing-mirzakhani-829dff.netlify.app/)
+- Live Site URL:(https://taupe-cranachan-6f4ef3.netlify.app/)
 
 ## My process
 
@@ -38,8 +38,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- vscode
-- css animations
+- Vscode
+- Pseudo-elements
 
 ### Useful resources
 
